@@ -26,43 +26,9 @@ MySQL
 ORM Framework:
 
 Hibernate
-Project Structure
-css
-Copy code
-Employee-Information-System/
-│
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   ├── com/
-│   │   │   │   ├── employee/
-│   │   │   │   │   ├── controller/
-│   │   │   │   │   ├── dao/
-│   │   │   │   │   ├── model/
-│   │   │   │   │   ├── service/
-│   │   │   │   │   ├── util/
-│   │   ├── resources/
-│   ├── webapp/
-│   │   ├── WEB-INF/
-│   │   │   ├── jsp/
-│   │   │   │   ├── addEmployee.jsp
-│   │   │   │   ├── editEmployee.jsp
-│   │   │   │   ├── listEmployees.jsp
-│   │   │   │   ├── viewEmployee.jsp
-│   │   ├── static/
-│   │   │   ├── css/
-│   │   │   │   ├── tailwind.css
-│   │   │   ├── js/
-│   │   │   │   ├── main.js
-│
-├── pom.xml
-├── README.md
-Setup and Installation
-Clone the Repository:
 
-bash
 Copy code
-git clone https://github.com/your-username/employee-information-system.git
+git clone https://github.com/SNEHIL1311/Employee-Information-System
 cd employee-information-system
 Configure the Database:
 
