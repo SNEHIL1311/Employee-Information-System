@@ -54,7 +54,8 @@ Home Page
 
 
 Employee Registration Form
-![Screenshot (229)](https://github.com/user-attachments/assets/771ba7cb-cc1b-4bb9-9717-c4d7e2412ba5)
+![Screenshot (231)](https://github.com/user-attachments/assets/32a16ff8-e111-40a1-8881-22689ebba312)
+
 
 
 Usage
